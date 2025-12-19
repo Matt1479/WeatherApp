@@ -41,13 +41,13 @@ An Android application written in Java that allows users to check the current we
 
 ## Screenshots
 
-<img src="./screenshots/0.clear-sky.png">
-<img src="./screenshots/1.mainly-clear.png">
-<img src="./screenshots/2.cloudy.png">
-<img src="./screenshots/3.rain.png">
-<img src="./screenshots/4.snow.png">
-<img src="./screenshots/5.default.png">
-<img src="./screenshots/6.empty.png">
-<img src="./screenshots/7.non-existent.png">
-<img src="./screenshots/8.loading.png">
-<img src="./screenshots/9.loaded.png">
+<img src="./screenshots/0.clear-sky.png" width="320">
+<img src="./screenshots/1.mainly-clear.png" width="320">
+<img src="./screenshots/2.cloudy.png" width="320">
+<img src="./screenshots/3.rain.png" width="320">
+<img src="./screenshots/4.snow.png" width="320">
+<img src="./screenshots/5.default.png" width="320">
+<img src="./screenshots/6.empty.png" width="320">
+<img src="./screenshots/7.non-existent.png" width="320">
+<img src="./screenshots/8.loading.png" width="320">
+<img src="./screenshots/9.loaded.png" width="320">
